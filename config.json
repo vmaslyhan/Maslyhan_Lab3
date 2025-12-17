@@ -1,0 +1,9 @@
+{
+    "filename": "text.txt",
+    "language": "en",
+    "module": "module1",
+    "output": "file",
+    "max_chars": 800,
+    "max_words": 200,
+    "max_sentences": 10
+}

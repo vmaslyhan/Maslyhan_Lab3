@@ -1,0 +1,134 @@
+N    Language            Code      Text
+1    af                  afrikaans Groete
+2    sq                  albanian  pershendetje
+3    am                  amharic   ሰላምታ
+4    ar                  arabic    تحيات
+5    hy                  armenian  Ողջույններ
+6    as                  assamese  শুভেচ্ছা
+7    ay                  aymara    Aruntanaka
+8    az                  azerbaijanisalamlar
+9    bm                  bambara   Folikanws
+10   eu                  basque    Agurrak
+11   be                  belarusianПрывітанне
+12   bn                  bengali   শুভেচ্ছা
+13   bho                 bhojpuri  अभिवादन
+14   bs                  bosnian   Pozdrav
+15   bg                  bulgarian поздрави
+16   ca                  catalan   Salutacions
+17   ceb                 cebuano   Mga pangumusta
+18   ny                  chichewa  Moni
+19   zh-CN               chinese (simplified)问候
+20   zh-TW               chinese (traditional)問候
+21   co                  corsican  Saluti
+22   hr                  croatian  Lijepi pozdrav
+23   cs                  czech     Zdravím vás
+24   da                  danish    Hilsen
+25   dv                  dhivehi   ސަލާމް
+26   doi                 dogri     दुआ-सलाम
+27   nl                  dutch     Groeten
+28   en                  english   Greetings
+29   eo                  esperanto Saluton
+30   et                  estonian  Tervitused
+31   ee                  ewe       Gbedoname
+32   tl                  filipino  Pagbati
+33   fi                  finnish   Tervehdys
+34   fr                  french    Salutations
+35   fy                  frisian   Groetnis
+36   gl                  galician  Saúdos
+37   ka                  georgian  სალამი
+38   de                  german    Grüße
+39   el                  greek     Χαιρετίσματα
+40   gn                  guarani   Maitei
+41   gu                  gujarati  શુભેચ્છાઓ
+42   ht                  haitian creoleBonjou
+43   ha                  hausa     Gaisuwa
+44   haw                 hawaiian  Aloha mai
+45   iw                  hebrew    שלום רב
+46   hi                  hindi     अभिवादन
+47   hmn                 hmong     Nyob zoo
+48   hu                  hungarian Üdvözlet
+49   is                  icelandic Kveðja
+50   ig                  igbo      Ekele
+51   ilo                 ilocano   Dagiti kablaaw
+52   id                  indonesianSalam
+53   ga                  irish     Beannachtaí
+54   it                  italian   Saluti
+55   ja                  japanese  ご挨拶
+56   jw                  javanese  salam
+57   kn                  kannada   ಶುಭಾಶಯಗಳು
+58   kk                  kazakh    Сәлем
+59   km                  khmer     ជំរាបសួរ
+60   rw                  kinyarwandaNdabaramukije
+61   gom                 konkani   शुभेच्छा
+62   ko                  korean    인사말
+63   kri                 krio      De grit
+64   ku                  kurdish (kurmanji)Silav
+65   ckb                 kurdish (sorani)سڵاو
+66   ky                  kyrgyz    салам
+67   lo                  lao       ຊົມເຊີຍ
+68   la                  latin     salvete
+69   lv                  latvian   Sveicieni
+70   ln                  lingala   Mbote
+71   lt                  lithuanianSveikinimai
+72   lg                  luganda   Okulamusa
+73   lb                  luxembourgishGréiss
+74   mk                  macedonianпоздрав
+75   mai                 maithili  प्रणाम
+76   mg                  malagasy  fiarahabana
+77   ms                  malay     salam
+78   ml                  malayalam ആശംസകൾ
+79   mt                  maltese   Tislijiet
+80   mi                  maori     Tena koe
+81   mr                  marathi   अभिवादन
+82   mni-Mtei            meiteilon (manipuri)ꯇꯔꯥꯝꯅ ꯑꯣꯛꯄꯒꯤ ꯋꯥꯔꯣꯜ
+83   lus                 mizo      Chibai bukna
+84   mn                  mongolian Сайн байцгаана уу
+85   my                  myanmar   မင်္ဂလာပါ
+86   ne                  nepali    अभिवादन
+87   no                  norwegian Hilsen
+88   or                  odia (oriya)ନମସ୍କାର
+89   om                  oromo     Nagaa
+90   ps                  pashto    سلامونه
+91   fa                  persian   با سلام
+92   pl                  polish    Pozdrowienia
+93   pt                  portugueseSaudações
+94   pa                  punjabi   ਨਮਸਕਾਰ
+95   qu                  quechua   Napaykuy
+96   ro                  romanian  Salutări
+97   ru                  russian   Привет
+98   sm                  samoan    Fa'afeiloa'i
+99   sa                  sanskrit  अभिवादन
+100  gd                  scots gaelicBeannachdan
+101  nso                 sepedi    Madume
+102  sr                  serbian   Поздрав
+103  st                  sesotho   Lumelang
+104  sn                  shona     Kwaziwai
+105  sd                  sindhi    سلام
+106  si                  sinhala   සුභ පැතුම්
+107  sk                  slovak    Pozdravujem
+108  sl                  slovenian lep pozdrav
+109  so                  somali    Salaan calaykum
+110  es                  spanish   Saludos
+111  su                  sundanese salam
+112  sw                  swahili   Salamu
+113  sv                  swedish   Hälsningar
+114  tg                  tajik     Салом
+115  ta                  tamil     வாழ்த்துக்கள்
+116  tt                  tatar     Сәлам
+117  te                  telugu    నమస్కారములు
+118  th                  thai      สวัสดี
+119  ti                  tigrinya  ሰላምታ
+120  ts                  tsonga    Xeweta
+121  tr                  turkish   Selamlar
+122  tk                  turkmen   Salam
+123  ak                  twi       Nkyea
+124  uk                  ukrainian Привіт
+125  ur                  urdu      سلام
+126  ug                  uyghur    سالام
+127  uz                  uzbek     Salom
+128  vi                  vietnameseLời chào
+129  cy                  welsh     Cyfarchion
+130  xh                  xhosa     Ndiyabulisa
+131  yi                  yiddish   גרעעטינגס
+132  yo                  yoruba    Ẹ kí
+133  zu                  zulu      Sanibonani

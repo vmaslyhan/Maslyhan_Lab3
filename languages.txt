@@ -1,0 +1,108 @@
+Code      Language            Translated text
+af        afrikaans           Groete
+sq        albanian            pershendetje
+am        amharic             ሰላምታ
+ar        arabic              تحيات
+hy        armenian            Ողջույններ
+az        azerbaijani         salamlar
+eu        basque              Agurrak
+be        belarusian          Прывітанне
+bn        bengali             শুভেচ্ছা
+bs        bosnian             Pozdrav
+bg        bulgarian           поздрави
+ca        catalan             Salutacions
+ceb       cebuano             Mga pangumusta
+ny        chichewa            Moni
+zh-cn     chinese (simplified)问候
+zh-tw     chinese (traditional)問候
+co        corsican            Saluti
+hr        croatian            Lijepi pozdrav
+cs        czech               Zdravím vás
+da        danish              Hilsen
+nl        dutch               Groeten
+en        english             Greetings
+eo        esperanto           Saluton
+et        estonian            Tervitused
+tl        filipino            Pagbati
+fi        finnish             Tervehdys
+fr        french              Salutations
+fy        frisian             Groetnis
+gl        galician            Saúdos
+ka        georgian            სალამი
+de        german              Grüße
+el        greek               Χαιρετίσματα
+gu        gujarati            શુભેચ્છાઓ
+ht        haitian creole      Bonjou
+ha        hausa               Gaisuwa
+haw       hawaiian            Aloha mai
+iw        hebrew              שלום רב
+he        hebrew              שלום רב
+hi        hindi               अभिवादन
+hmn       hmong               Nyob zoo
+hu        hungarian           Üdvözlet
+is        icelandic           Kveðja
+ig        igbo                Ekele
+id        indonesian          Salam
+ga        irish               Beannachtaí
+it        italian             Saluti
+ja        japanese            ご挨拶
+jw        javanese            salam
+kn        kannada             ಶುಭಾಶಯಗಳು
+kk        kazakh              Сәлем
+km        khmer               ជំរាបសួរ
+ko        korean              인사말
+ku        kurdish (kurmanji)  Silav
+ky        kyrgyz              салам
+lo        lao                 ຊົມເຊີຍ
+la        latin               salvete
+lv        latvian             Sveicieni
+lt        lithuanian          Sveikinimai
+lb        luxembourgish       Gréiss
+mk        macedonian          поздрав
+mg        malagasy            fiarahabana
+ms        malay               salam
+ml        malayalam           ആശംസകൾ
+mt        maltese             Tislijiet
+mi        maori               Tena koe
+mr        marathi             अभिवादन
+mn        mongolian           Сайн байцгаана уу
+my        myanmar (burmese)   မင်္ဂလာပါ
+ne        nepali              अभिवादन
+no        norwegian           Hilsen
+or        odia                ନମସ୍କାର
+ps        pashto              سلامونه
+fa        persian             با سلام
+pl        polish              Pozdrowienia
+pt        portuguese          Saudações
+pa        punjabi             ਨਮਸਕਾਰ
+ro        romanian            Salutări
+ru        russian             Привет
+sm        samoan              Fa'afeiloa'i
+gd        scots gaelic        Beannachdan
+sr        serbian             Поздрав
+st        sesotho             Lumelang
+sn        shona               Kwaziwai
+sd        sindhi              سلام
+si        sinhala             සුභ පැතුම්
+sk        slovak              Pozdravujem
+sl        slovenian           lep pozdrav
+so        somali              Salaan calaykum
+es        spanish             Saludos
+su        sundanese           salam
+sw        swahili             Salamu
+sv        swedish             Hälsningar
+tg        tajik               Салом
+ta        tamil               வாழ்த்துக்கள்
+te        telugu              నమస్కారములు
+th        thai                สวัสดี
+tr        turkish             Selamlar
+uk        ukrainian           Привіт
+ur        urdu                سلام
+ug        uyghur              سالام
+uz        uzbek               Salom
+vi        vietnamese          Lời chào
+cy        welsh               Cyfarchion
+xh        xhosa               Ndiyabulisa
+yi        yiddish             גרעעטינגס
+yo        yoruba              Ẹ kí
+zu        zulu                Sanibonani
